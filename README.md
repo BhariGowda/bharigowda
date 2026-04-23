@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cryptopreneur, SolidityDev since 2022
+Cryptopreneur, Blockchain-SolidityDev since 2022
 
 
 ## 🌐 Socials:
