@@ -11,6 +11,7 @@
 ## 📊 GitHub Stats
 ![](https://github-stats-alpha.vercel.app/api?username=BhariGowda&cc=000&tc=fff&ic=fff&bc=000)
 ![](https://streak-stats.demolab.com?user=BhariGowda&theme=dark&hide_border=false)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhariGowda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
