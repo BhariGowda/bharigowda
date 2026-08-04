@@ -1,4 +1,4 @@
- <h3 align="center">// Solidity Dev | DeFi-AI | Open Source Contributor</h3>
+ <h3 align="center">// Solidity Dev | DeFi-AI | Open Source Contributor</h3> #Bechamie
 <p align="center"><i>If it's not on-chain, it doesn't exist.</i></p>
 
 ## 🌐 Socials
