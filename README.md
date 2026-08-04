@@ -1,4 +1,4 @@
-# 💫 About Me.
+# 💫 About Me
 <h3 align="center">// Solidity Dev | DeFi-AI | Open Source Contributor</h3>
 <p align="center"><i>If it's not on-chain, it doesn't exist.</i></p>
 
