@@ -1,5 +1,4 @@
  <h3 align="center">// Solidity Dev | DeFi-AI | Open Source Contributor</h3>
-<p align="center"><i>If it's not on-chain,</i></p>
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@bharigowda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharigowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@gowdabhari)
